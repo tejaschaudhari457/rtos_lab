@@ -1,2 +1,2 @@
 # rtos_lab
-notes 
+assignments 
